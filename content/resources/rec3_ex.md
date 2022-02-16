@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-051-structural-engineering-design-fall-2003/b703e97f6d6e3acbc11828b7cbe205a5_rec3_ex.pdf
+file: /media/courses/1-051-structural-engineering-design-fall-2003/b703e97f6d6e3acbc11828b7cbe205a5_rec3_ex.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec3_ex.pdf
 uid: b703e97f-6d6e-3acb-c118-28b7cbe205a5

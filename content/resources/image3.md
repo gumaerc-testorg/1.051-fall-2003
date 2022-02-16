@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-051-structural-engineering-design-fall-2003/1847678f2c03c262e3b8175ebafd8eb9_image3.jpg
+file: /media/courses/1-051-structural-engineering-design-fall-2003/1847678f2c03c262e3b8175ebafd8eb9_image3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: image3.jpg
 uid: 1847678f-2c03-c262-e3b8-175ebafd8eb9

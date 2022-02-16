@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-051-structural-engineering-design-fall-2003/d91ed22911bef4df8114cbd77ac70d38_rec4_t_beams.pdf
+file: /media/courses/1-051-structural-engineering-design-fall-2003/d91ed22911bef4df8114cbd77ac70d38_rec4_t_beams.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec4_t_beams.pdf
 uid: d91ed229-11be-f4df-8114-cbd77ac70d38
