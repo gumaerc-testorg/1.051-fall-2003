@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 6483f495-6897-5aac-f544-daf637e96543
 resourcetype: Document
 title: rec6_ten_mem.pdf
 uid: 8aa52cb6-5f56-4780-654a-b3b207a07452

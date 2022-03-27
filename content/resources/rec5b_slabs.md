@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 6483f495-6897-5aac-f544-daf637e96543
 resourcetype: Document
 title: rec5b_slabs.pdf
 uid: 02c3b936-434e-f6ac-28cb-dd2924a2de3a

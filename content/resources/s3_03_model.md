@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be25bd38-11f6-eae5-570d-0a272d2648c7
 resourcetype: Document
 title: s3_03_model.pdf
 uid: a0a4a66c-e657-ebbb-e474-c00968b9aa3b

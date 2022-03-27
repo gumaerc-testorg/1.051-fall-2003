@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be25bd38-11f6-eae5-570d-0a272d2648c7
 resourcetype: Document
 title: Final_Simmons_report_web.pdf
 uid: 004bc040-a5a4-d8e3-2217-fabe2ab9126b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 6483f495-6897-5aac-f544-daf637e96543
 resourcetype: Document
 title: rec3_shear_des.pdf
 uid: 51489ee6-42e3-517a-9eb2-77e91645c8ac

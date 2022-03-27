@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 15da82cc-cb69-4ba3-b0dd-09db4630491a
 resourcetype: Document
 title: quiz_rev_summ.pdf
 uid: 70608989-fc77-6ff5-5385-2f061bec1f69
