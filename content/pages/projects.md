@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -72,4 +73,4 @@ The final project should at least include the following
 ----------------------------------------------------
 
 *   Overview of Simmons Hall Building Structure
-*   SAP2000 Tutorial ([PDF]({{< baseurl >}}/resources/sap2000_tutorial2))
+*   SAP2000 Tutorial ({{% resource_link 14f978b9-28ef-978b-bc95-5ef93c0b35b7 "PDF" %}})

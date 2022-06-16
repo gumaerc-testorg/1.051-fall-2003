@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-051-structural-engineering-design-fall-2003/760572d2f3b1534150f22ec3dc8260e9_probset_4sol.pdf
+file: /courses/1-051-structural-engineering-design-fall-2003/760572d2f3b1534150f22ec3dc8260e9_probset_4sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

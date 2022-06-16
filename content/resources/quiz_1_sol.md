@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-051-structural-engineering-design-fall-2003/3eed21985f6d4ecd37d044adcd3be8ea_quiz_1_sol.pdf
+file: /courses/1-051-structural-engineering-design-fall-2003/3eed21985f6d4ecd37d044adcd3be8ea_quiz_1_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

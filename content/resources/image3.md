@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-051-structural-engineering-design-fall-2003/1847678f2c03c262e3b8175ebafd8eb9_image3.jpg
+file: /courses/1-051-structural-engineering-design-fall-2003/1847678f2c03c262e3b8175ebafd8eb9_image3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
