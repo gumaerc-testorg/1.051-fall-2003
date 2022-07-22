@@ -5,6 +5,7 @@ file: /courses/1-051-structural-engineering-design-fall-2003/ba940ff7af6f173b3e6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

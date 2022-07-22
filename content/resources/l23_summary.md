@@ -5,6 +5,7 @@ file: /courses/1-051-structural-engineering-design-fall-2003/e7a475c03570791b0e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

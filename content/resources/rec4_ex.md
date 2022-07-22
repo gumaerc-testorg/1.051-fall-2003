@@ -5,6 +5,7 @@ file: /courses/1-051-structural-engineering-design-fall-2003/fc0716cf5fd587b0764
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
