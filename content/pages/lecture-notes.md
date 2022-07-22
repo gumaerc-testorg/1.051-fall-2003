@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 89e9b0f7-9207-92e0-aa99-c6bdc7bcae56
 ---
@@ -212,7 +216,7 @@ Special Lecture: Bridge Design— Beyond the Calculations
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Steel Design ([PDF]({{< baseurl >}}/resources/l22_summary))
+Introduction to Steel Design ({{% resource_link 78b4fcaf-0f43-3056-d5e6-5caab96a35ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +225,7 @@ Introduction to Steel Design ([PDF]({{< baseurl >}}/resources/l22_summary))
 L23
 {{< tdclose >}}
 {{< tdopen >}}
-Tension Members and Connections ([PDF]({{< baseurl >}}/resources/l23_summary))
+Tension Members and Connections ({{% resource_link e7a475c0-3570-791b-0e91-589f07f0582c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +243,7 @@ Group Presentations
 L25
 {{< tdclose >}}
 {{< tdopen >}}
-Compression Members ([PDF]({{< baseurl >}}/resources/l25_summary))
+Compression Members ({{% resource_link d0a53d28-43d4-7c7a-3d84-d6cec0352851 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +261,7 @@ Guest Lecture: Prestressed Concrete Systems
 L27
 {{< tdclose >}}
 {{< tdopen >}}
-Bending Members ([PDF]({{< baseurl >}}/resources/l27_summary))
+Bending Members ({{% resource_link 4cff0922-fb54-5ac2-f054-82e94f59377f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
