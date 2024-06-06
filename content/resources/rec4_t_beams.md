@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/d91ed22911bef4df8114cbd77ac70d38_rec4_t_beams.pdf
+file_size: 143712
 file_type: application/pdf
 learning_resource_types:
 - Recitations

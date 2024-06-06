@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/51489ee642e3517a9eb277e91645c8ac_rec3_shear_des.pdf
+file_size: 153609
 file_type: application/pdf
 learning_resource_types:
 - Recitations

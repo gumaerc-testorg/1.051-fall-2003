@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/b8dbe3118b49dc426a7619264565ffa7_probset_5sol.pdf
+file_size: 154952
 file_type: application/pdf
 learning_resource_types:
 - Assignments
