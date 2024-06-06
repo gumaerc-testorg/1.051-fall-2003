@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/f50c1db3e5b587ccf20fd021ad738f6f_image1.jpg
+file_size: 69901
 file_type: image/jpeg
 image_metadata:
   caption: ''

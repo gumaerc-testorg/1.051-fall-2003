@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/294abc6a0aa95fe569eda2a9436c51db_rec1wind_eqloads.pdf
+file_size: 170125
 file_type: application/pdf
 learning_resource_types:
 - Recitations

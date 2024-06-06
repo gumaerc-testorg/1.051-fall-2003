@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/1cf29ba4ed4fb695eb93ead8e3932c2c_s2_07_model.pdf
+file_size: 2275582
 file_type: application/pdf
 learning_resource_types:
 - Projects
