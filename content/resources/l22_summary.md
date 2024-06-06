@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/78b4fcaf0f433056d5e65caab96a35ab_L22_summary.pdf
+file_size: 27080
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
