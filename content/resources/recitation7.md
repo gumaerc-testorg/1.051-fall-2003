@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-051-structural-engineering-design-fall-2003/702c7e668b70fd4f9d0b17b3ee45aea1_recitation7.pdf
+file: /courses/1-051-structural-engineering-design-fall-2003/702c7e668b70fd4f9d0b17b3ee45aea1_recitation7.pdf
 file_size: 19333
 file_type: application/pdf
 learning_resource_types:
