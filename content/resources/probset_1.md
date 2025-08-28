@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-051-structural-engineering-design-fall-2003/8d6f255d84acf1637c6a847cc0525363_probset_1.pdf
+file: /ol-ocw-studio-app/courses/1-051-structural-engineering-design-fall-2003/8d6f255d84acf1637c6a847cc0525363_probset_1.pdf
 file_size: 17125
 file_type: application/pdf
 learning_resource_types:

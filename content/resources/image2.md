@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-051-structural-engineering-design-fall-2003/570ec0d92dbe234da0a1439ce0339d9b_image2.jpg
+file: /ol-ocw-studio-app/courses/1-051-structural-engineering-design-fall-2003/570ec0d92dbe234da0a1439ce0339d9b_image2.jpg
 file_size: 67183
 file_type: image/jpeg
 image_metadata:
